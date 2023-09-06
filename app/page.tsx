@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import About from "../app/Home/about";
 import Navbar from "../app/Components/navbar";
 import Projects from "../app/Components/projects";

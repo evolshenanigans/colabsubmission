@@ -6,7 +6,7 @@ export default function App() {
       <div className="flex justify-center items-center h-screen">
         <Card className="w-full md:w-2/3">
           <CardBody>
-            <h1 className="text-2xl font-bold text-center">Why Web3?</h1>
+            <h1 className="text-2xl font-bold text-center">Why Web3</h1>
             <p className="text-sm md:text-base lg:text-lg">
               In my journey as a software developer, I have always been captivated
               by the frontier technologies that have the potential to redefine our
