@@ -2,7 +2,7 @@
 
 import React from "react";
 import {Navbar, NavbarBrand, NavbarContent, NavbarItem, Link, DropdownItem, DropdownTrigger, Dropdown, DropdownMenu, Avatar} from "@nextui-org/react";
-import B3soft from "../Images/B3soft.jpg";
+import B3soft from "../Images/b3soft.jpg";
 import diadelosmuertos from "../Images/diadelosmuertos.jpg";
 import {Image} from "@nextui-org/react";
 
