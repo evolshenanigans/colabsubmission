@@ -8,7 +8,6 @@ interface CoinsProps {
   market_cap: number;
   total_volume: number;
   image: string;
-  //   price_change_percentage_24: number;
   id: string;
 }
 
@@ -19,7 +18,6 @@ const Coins: React.FC<CoinsProps> = ({
   market_cap,
   total_volume,
   image,
-  //   price_change_percentage_24,
   id,
 }) => {
   return (

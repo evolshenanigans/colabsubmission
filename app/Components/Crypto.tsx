@@ -9,17 +9,16 @@ interface Coin {
   market_cap: number;
   total_volume: number;
   image: string;
-//   price_change_percentage_24: number;
+
 
 }
 
-// Props interface
+
 interface CryptoProps {
   coins: Coin[];
 }
 
 export default function Crypto({ coins }: CryptoProps) {
-  // Take the top 10 coins
   const topTenCoins = coins.slice(0, 10);
 
   return (
